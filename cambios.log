@@ -1,0 +1,463 @@
+[2023-06-05 21:04:43] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-05 21:13:44] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-05 21:13:51] [ DEBUG] [PacienteDaoH2:28] ingresamos al metodo guardar de paciente en PacienteDaoH2
+[2023-06-05 21:13:51] [ DEBUG] [DomicilioDaoH2:24] Ingresamos al metodo guardar domicilio
+[2023-06-05 21:14:06] [ INFO ] [PacienteDaoH2:150] ingresamos al metodo listar Pacientes
+[2023-06-05 21:14:06] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 1
+[2023-06-05 21:14:06] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 2
+[2023-06-05 21:14:06] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 3
+[2023-06-05 21:17:22] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-05 21:17:35] [ DEBUG] [PacienteDaoH2:28] ingresamos al metodo guardar de paciente en PacienteDaoH2
+[2023-06-05 21:17:35] [ DEBUG] [DomicilioDaoH2:24] Ingresamos al metodo guardar domicilio
+[2023-06-05 21:17:45] [ INFO ] [PacienteDaoH2:150] ingresamos al metodo listar Pacientes
+[2023-06-05 21:17:45] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 1
+[2023-06-05 21:17:45] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 2
+[2023-06-05 21:17:45] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 3
+[2023-06-05 21:24:33] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-05 21:24:48] [ DEBUG] [PacienteDaoH2:28] ingresamos al metodo guardar de paciente en PacienteDaoH2
+[2023-06-05 21:24:48] [ DEBUG] [DomicilioDaoH2:24] Ingresamos al metodo guardar domicilio
+[2023-06-05 21:24:57] [ INFO ] [PacienteDaoH2:150] ingresamos al metodo listar Pacientes
+[2023-06-05 21:24:57] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 1
+[2023-06-05 21:24:57] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 2
+[2023-06-05 21:24:57] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 3
+[2023-06-05 21:25:13] [ DEBUG] [PacienteDaoH2:99] INGRESAMOS AL METODO DE eliminar ID POR paciente : 3
+[2023-06-05 21:25:35] [ INFO ] [PacienteDaoH2:150] ingresamos al metodo listar Pacientes
+[2023-06-05 21:25:35] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 1
+[2023-06-05 21:25:35] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 2
+[2023-06-05 21:30:25] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-05 21:30:59] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 1
+[2023-06-05 21:43:58] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-05 21:44:14] [ DEBUG] [PacienteDaoH2:28] ingresamos al metodo guardar de paciente en PacienteDaoH2
+[2023-06-05 21:44:14] [ DEBUG] [DomicilioDaoH2:24] Ingresamos al metodo guardar domicilio
+[2023-06-05 21:44:27] [ INFO ] [PacienteDaoH2:150] ingresamos al metodo listar Pacientes
+[2023-06-05 21:44:27] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 1
+[2023-06-05 21:44:27] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 2
+[2023-06-05 21:44:27] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 3
+[2023-06-05 21:55:33] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-05 21:58:10] [ DEBUG] [PacienteDaoH2:28] ingresamos al metodo guardar de paciente en PacienteDaoH2
+[2023-06-05 21:58:10] [ DEBUG] [DomicilioDaoH2:24] Ingresamos al metodo guardar domicilio
+[2023-06-05 21:58:24] [ INFO ] [PacienteDaoH2:154] ingresamos al metodo listar Pacientes
+[2023-06-05 21:58:24] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 1
+[2023-06-05 21:58:24] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 2
+[2023-06-05 21:58:24] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 3
+[2023-06-05 21:59:49] [ INFO ] [PacienteDaoH2:154] ingresamos al metodo listar Pacientes
+[2023-06-05 21:59:49] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 1
+[2023-06-05 21:59:49] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 2
+[2023-06-05 21:59:49] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 3
+[2023-06-05 22:00:34] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 3
+[2023-06-05 22:03:44] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-05 22:04:32] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-05 22:04:40] [ DEBUG] [PacienteDaoH2:28] ingresamos al metodo guardar de paciente en PacienteDaoH2
+[2023-06-05 22:04:40] [ DEBUG] [DomicilioDaoH2:24] Ingresamos al metodo guardar domicilio
+[2023-06-05 22:05:36] [ INFO ] [PacienteDaoH2:154] ingresamos al metodo listar Pacientes
+[2023-06-05 22:05:36] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 1
+[2023-06-05 22:05:36] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 2
+[2023-06-05 22:05:36] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 3
+[2023-06-05 22:06:17] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 1
+[2023-06-05 22:07:32] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-05 22:07:40] [ DEBUG] [PacienteDaoH2:28] ingresamos al metodo guardar de paciente en PacienteDaoH2
+[2023-06-05 22:07:40] [ DEBUG] [DomicilioDaoH2:24] Ingresamos al metodo guardar domicilio
+[2023-06-05 22:07:44] [ INFO ] [PacienteDaoH2:154] ingresamos al metodo listar Pacientes
+[2023-06-05 22:07:44] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 1
+[2023-06-05 22:07:44] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 2
+[2023-06-05 22:07:44] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 3
+[2023-06-05 22:07:51] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 3
+[2023-06-05 22:13:05] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 3
+[2023-06-05 22:13:05] [ INFO ] [PacienteDaoH2:122] ingresamos al metodo modificar el id: 3
+[2023-06-05 22:13:05] [ INFO ] [DomicilioDaoH2:112] ingresamos al metodo modificar el id: 3
+[2023-06-05 22:13:17] [ INFO ] [PacienteDaoH2:154] ingresamos al metodo listar Pacientes
+[2023-06-05 22:13:17] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 1
+[2023-06-05 22:13:17] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 2
+[2023-06-05 22:13:17] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 3
+[2023-06-05 22:13:36] [ INFO ] [PacienteDaoH2:154] ingresamos al metodo listar Pacientes
+[2023-06-05 22:13:36] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 1
+[2023-06-05 22:13:36] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 2
+[2023-06-05 22:13:36] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 3
+[2023-06-05 22:14:45] [ DEBUG] [PacienteDaoH2:99] INGRESAMOS AL METODO DE eliminar ID POR paciente : 3
+[2023-06-05 22:36:39] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-05 22:36:57] [ DEBUG] [PacienteDaoH2:28] ingresamos al metodo guardar de paciente en PacienteDaoH2
+[2023-06-05 22:36:57] [ DEBUG] [DomicilioDaoH2:24] Ingresamos al metodo guardar domicilio
+[2023-06-05 22:37:02] [ INFO ] [PacienteDaoH2:154] ingresamos al metodo listar Pacientes
+[2023-06-05 22:37:02] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 1
+[2023-06-05 22:37:02] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 2
+[2023-06-05 22:37:02] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 3
+[2023-06-05 22:37:14] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 2
+[2023-06-05 22:37:53] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 3
+[2023-06-05 22:37:53] [ INFO ] [PacienteDaoH2:122] ingresamos al metodo modificar el id: 3
+[2023-06-05 22:37:53] [ INFO ] [DomicilioDaoH2:112] ingresamos al metodo modificar el id: 3
+[2023-06-05 22:38:09] [ DEBUG] [PacienteDaoH2:99] INGRESAMOS AL METODO DE eliminar ID POR paciente : 3
+[2023-06-05 23:52:53] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-05 23:55:25] [ INFO ] [OdontologoDaoH2:44] Se cargo Odontologo con id: 3
+[2023-06-06 00:00:13] [ INFO ] [OdontologoDaoH2:108] ingresamos al metodo modificar el id: 3
+[2023-06-06 00:01:35] [ DEBUG] [OdontologoDaoH2:87] INGRESAMOS AL METODO DE ELIMINAR DE ODONTOLOGO3
+[2023-06-07 20:41:21] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-07 20:41:39] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 1
+[2023-06-07 20:42:25] [ INFO ] [PacienteDaoH2:156] ingresamos al metodo listar Pacientes
+[2023-06-07 20:42:25] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 1
+[2023-06-07 20:42:25] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 2
+[2023-06-07 21:04:25] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 1
+[2023-06-07 21:07:44] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-07 21:12:12] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-07 21:12:46] [ DEBUG] [PacienteDaoH2:32] ingresamos al metodo guardar de paciente en PacienteDaoH2
+[2023-06-07 21:12:46] [ DEBUG] [DomicilioDaoH2:24] Ingresamos al metodo guardar domicilio
+[2023-06-07 21:13:01] [ INFO ] [OdontologoDaoH2:44] Se cargo Odontologo con id: 3
+[2023-06-07 21:13:18] [ DEBUG] [PacienteDaoH2:72] Ingresamos al metodo buscar paciente buscar por id
+[2023-06-07 21:13:18] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 1
+[2023-06-07 21:13:18] [ DEBUG] [OdontologoDaoH2:60] Ingresamos al metodo buscar odontologo por id
+[2023-06-07 21:18:43] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-07 21:38:47] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-08 18:09:55] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-08 18:10:11] [ INFO ] [PacienteDaoH2:158] ingresamos al metodo listar Pacientes
+[2023-06-08 18:10:11] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 1
+[2023-06-08 18:10:11] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 2
+[2023-06-08 18:10:36] [ DEBUG] [PacienteDaoH2:72] Ingresamos al metodo buscar paciente buscar por id
+[2023-06-08 18:10:36] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 1
+[2023-06-08 18:10:36] [ DEBUG] [OdontologoDaoH2:61] Ingresamos al metodo buscar odontologo por id
+[2023-06-08 18:19:05] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-08 18:22:19] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-08 18:23:45] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-08 18:24:45] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-08 18:25:35] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-08 18:35:27] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-08 18:36:31] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-08 18:37:44] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-08 18:39:32] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-08 18:41:30] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-08 18:43:39] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-08 18:44:35] [ INFO ] [OdontologoDaoH2:29] Ingresamos al metodo guardar 
+[2023-06-08 18:44:35] [ INFO ] [OdontologoDaoH2:45] Se cargo Odontologo con id: 3
+[2023-06-08 18:52:18] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-08 18:55:50] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-08 18:57:17] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-08 19:01:13] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-08 19:02:46] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-08 19:10:31] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-08 19:14:33] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-08 19:15:04] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-08 19:15:39] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-08 19:19:25] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-08 20:02:38] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-08 20:02:49] [ DEBUG] [PacienteDaoH2:72] Ingresamos al metodo buscar paciente buscar por id
+[2023-06-08 20:02:50] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 1
+[2023-06-08 20:02:50] [ DEBUG] [OdontologoDaoH2:61] Ingresamos al metodo buscar odontologo por id
+[2023-06-08 20:08:57] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-08 20:18:15] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-08 20:18:47] [ DEBUG] [PacienteDaoH2:72] Ingresamos al metodo buscar paciente buscar por id
+[2023-06-08 20:18:47] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 1
+[2023-06-08 20:18:47] [ DEBUG] [OdontologoDaoH2:61] Ingresamos al metodo buscar odontologo por id
+[2023-06-08 20:23:43] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-08 20:23:49] [ DEBUG] [PacienteDaoH2:72] Ingresamos al metodo buscar paciente buscar por id
+[2023-06-08 20:23:49] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 1
+[2023-06-08 20:23:49] [ DEBUG] [OdontologoDaoH2:61] Ingresamos al metodo buscar odontologo por id
+[2023-06-08 20:23:49] [ DEBUG] [PacienteDaoH2:72] Ingresamos al metodo buscar paciente buscar por id
+[2023-06-08 20:23:49] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 1
+[2023-06-08 20:23:49] [ DEBUG] [OdontologoDaoH2:61] Ingresamos al metodo buscar odontologo por id
+[2023-06-08 20:26:38] [ DEBUG] [PacienteDaoH2:72] Ingresamos al metodo buscar paciente buscar por id
+[2023-06-08 20:26:38] [ DEBUG] [OdontologoDaoH2:61] Ingresamos al metodo buscar odontologo por id
+[2023-06-08 20:27:36] [ DEBUG] [PacienteDaoH2:72] Ingresamos al metodo buscar paciente buscar por id
+[2023-06-08 20:27:36] [ DEBUG] [OdontologoDaoH2:61] Ingresamos al metodo buscar odontologo por id
+[2023-06-08 20:27:55] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-08 20:28:12] [ DEBUG] [PacienteDaoH2:72] Ingresamos al metodo buscar paciente buscar por id
+[2023-06-08 20:28:12] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 1
+[2023-06-08 20:28:12] [ DEBUG] [OdontologoDaoH2:61] Ingresamos al metodo buscar odontologo por id
+[2023-06-08 20:28:12] [ DEBUG] [PacienteDaoH2:72] Ingresamos al metodo buscar paciente buscar por id
+[2023-06-08 20:28:12] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 1
+[2023-06-08 20:28:12] [ DEBUG] [OdontologoDaoH2:61] Ingresamos al metodo buscar odontologo por id
+[2023-06-08 20:28:36] [ DEBUG] [PacienteDaoH2:72] Ingresamos al metodo buscar paciente buscar por id
+[2023-06-08 20:28:36] [ DEBUG] [OdontologoDaoH2:61] Ingresamos al metodo buscar odontologo por id
+[2023-06-08 20:43:13] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-08 20:43:23] [ DEBUG] [PacienteDaoH2:72] Ingresamos al metodo buscar paciente buscar por id
+[2023-06-08 20:43:23] [ DEBUG] [OdontologoDaoH2:61] Ingresamos al metodo buscar odontologo por id
+[2023-06-08 20:43:32] [ DEBUG] [PacienteDaoH2:72] Ingresamos al metodo buscar paciente buscar por id
+[2023-06-08 20:43:32] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 2
+[2023-06-08 20:43:32] [ DEBUG] [OdontologoDaoH2:61] Ingresamos al metodo buscar odontologo por id
+[2023-06-08 20:43:32] [ DEBUG] [PacienteDaoH2:72] Ingresamos al metodo buscar paciente buscar por id
+[2023-06-08 20:43:32] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 2
+[2023-06-08 20:43:32] [ DEBUG] [OdontologoDaoH2:61] Ingresamos al metodo buscar odontologo por id
+[2023-06-08 20:50:59] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-08 20:51:41] [ DEBUG] [PacienteDaoH2:72] Ingresamos al metodo buscar paciente buscar por id
+[2023-06-08 20:51:41] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 2
+[2023-06-08 20:51:41] [ DEBUG] [OdontologoDaoH2:61] Ingresamos al metodo buscar odontologo por id
+[2023-06-08 20:51:41] [ DEBUG] [PacienteDaoH2:72] Ingresamos al metodo buscar paciente buscar por id
+[2023-06-08 20:51:41] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 2
+[2023-06-08 20:51:41] [ DEBUG] [OdontologoDaoH2:61] Ingresamos al metodo buscar odontologo por id
+[2023-06-08 20:52:13] [ DEBUG] [PacienteDaoH2:72] Ingresamos al metodo buscar paciente buscar por id
+[2023-06-08 20:52:13] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 1
+[2023-06-08 20:52:13] [ DEBUG] [OdontologoDaoH2:61] Ingresamos al metodo buscar odontologo por id
+[2023-06-08 20:52:13] [ DEBUG] [PacienteDaoH2:72] Ingresamos al metodo buscar paciente buscar por id
+[2023-06-08 20:52:13] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 1
+[2023-06-08 20:52:13] [ DEBUG] [OdontologoDaoH2:61] Ingresamos al metodo buscar odontologo por id
+[2023-06-08 20:52:21] [ DEBUG] [PacienteDaoH2:72] Ingresamos al metodo buscar paciente buscar por id
+[2023-06-08 20:52:21] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 1
+[2023-06-08 20:52:21] [ DEBUG] [OdontologoDaoH2:61] Ingresamos al metodo buscar odontologo por id
+[2023-06-08 20:52:21] [ DEBUG] [PacienteDaoH2:72] Ingresamos al metodo buscar paciente buscar por id
+[2023-06-08 20:52:22] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 1
+[2023-06-08 20:52:22] [ DEBUG] [OdontologoDaoH2:61] Ingresamos al metodo buscar odontologo por id
+[2023-06-08 21:08:13] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-08 21:08:32] [ DEBUG] [PacienteDaoH2:72] Ingresamos al metodo buscar paciente buscar por id
+[2023-06-08 21:08:32] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 1
+[2023-06-08 21:08:32] [ DEBUG] [OdontologoDaoH2:61] Ingresamos al metodo buscar odontologo por id
+[2023-06-08 21:08:32] [ DEBUG] [PacienteDaoH2:72] Ingresamos al metodo buscar paciente buscar por id
+[2023-06-08 21:08:32] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 1
+[2023-06-08 21:08:32] [ DEBUG] [OdontologoDaoH2:61] Ingresamos al metodo buscar odontologo por id
+[2023-06-08 21:08:57] [ DEBUG] [OdontologoDaoH2:61] Ingresamos al metodo buscar odontologo por id
+[2023-06-08 21:08:57] [ DEBUG] [PacienteDaoH2:72] Ingresamos al metodo buscar paciente buscar por id
+[2023-06-08 21:08:57] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 2
+[2023-06-08 21:08:57] [ DEBUG] [PacienteDaoH2:72] Ingresamos al metodo buscar paciente buscar por id
+[2023-06-08 21:08:57] [ DEBUG] [DomicilioDaoH2:56] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 2
+[2023-06-08 21:08:57] [ DEBUG] [OdontologoDaoH2:61] Ingresamos al metodo buscar odontologo por id
+[2023-06-08 21:09:15] [ DEBUG] [OdontologoDaoH2:61] Ingresamos al metodo buscar odontologo por id
+[2023-06-08 21:09:15] [ DEBUG] [PacienteDaoH2:72] Ingresamos al metodo buscar paciente buscar por id
+[2023-06-08 21:09:31] [ DEBUG] [OdontologoDaoH2:61] Ingresamos al metodo buscar odontologo por id
+[2023-06-08 21:46:20] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-08 21:52:31] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-08 21:52:56] [ DEBUG] [PacienteDaoH2:32] ingresamos al metodo guardar de paciente en PacienteDaoH2
+[2023-06-08 21:52:56] [ DEBUG] [DomicilioDaoH2:25] Ingresamos al metodo guardar domicilio
+[2023-06-08 21:53:34] [ DEBUG] [PacienteDaoH2:72] Ingresamos al metodo buscar paciente buscar por id
+[2023-06-08 21:53:34] [ DEBUG] [DomicilioDaoH2:57] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 3
+[2023-06-08 21:54:10] [ DEBUG] [PacienteDaoH2:72] Ingresamos al metodo buscar paciente buscar por id
+[2023-06-08 21:54:10] [ DEBUG] [DomicilioDaoH2:57] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 3
+[2023-06-08 21:54:10] [ INFO ] [PacienteDaoH2:126] ingresamos al metodo modificar el id: 3
+[2023-06-08 21:54:10] [ DEBUG] [DomicilioDaoH2:25] Ingresamos al metodo guardar domicilio
+[2023-06-08 21:54:10] [ INFO ] [DomicilioDaoH2:113] ingresamos al metodo modificar el id: 4
+[2023-06-08 21:54:55] [ DEBUG] [PacienteDaoH2:72] Ingresamos al metodo buscar paciente buscar por id
+[2023-06-08 21:54:55] [ DEBUG] [DomicilioDaoH2:57] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 3
+[2023-06-08 21:55:08] [ INFO ] [PacienteDaoH2:160] ingresamos al metodo listar Pacientes
+[2023-06-08 21:55:08] [ DEBUG] [DomicilioDaoH2:57] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 1
+[2023-06-08 21:55:08] [ DEBUG] [DomicilioDaoH2:57] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 2
+[2023-06-08 21:55:08] [ DEBUG] [DomicilioDaoH2:57] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 3
+[2023-06-08 21:55:28] [ DEBUG] [PacienteDaoH2:72] Ingresamos al metodo buscar paciente buscar por id
+[2023-06-08 21:55:28] [ DEBUG] [DomicilioDaoH2:57] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 3
+[2023-06-08 21:58:22] [ DEBUG] [PacienteDaoH2:72] Ingresamos al metodo buscar paciente buscar por id
+[2023-06-08 21:58:22] [ DEBUG] [DomicilioDaoH2:57] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 3
+[2023-06-08 21:59:12] [ INFO ] [PacienteDaoH2:160] ingresamos al metodo listar Pacientes
+[2023-06-08 21:59:12] [ DEBUG] [DomicilioDaoH2:57] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 1
+[2023-06-08 21:59:12] [ DEBUG] [DomicilioDaoH2:57] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 2
+[2023-06-08 21:59:12] [ DEBUG] [DomicilioDaoH2:57] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 3
+[2023-06-08 22:03:42] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-08 22:03:56] [ INFO ] [PacienteDaoH2:159] ingresamos al metodo listar Pacientes
+[2023-06-08 22:03:56] [ DEBUG] [DomicilioDaoH2:57] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 1
+[2023-06-08 22:03:56] [ DEBUG] [DomicilioDaoH2:57] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 2
+[2023-06-08 22:04:03] [ DEBUG] [PacienteDaoH2:32] ingresamos al metodo guardar de paciente en PacienteDaoH2
+[2023-06-08 22:04:03] [ DEBUG] [DomicilioDaoH2:25] Ingresamos al metodo guardar domicilio
+[2023-06-08 22:04:09] [ INFO ] [PacienteDaoH2:159] ingresamos al metodo listar Pacientes
+[2023-06-08 22:04:09] [ DEBUG] [DomicilioDaoH2:57] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 1
+[2023-06-08 22:04:09] [ DEBUG] [DomicilioDaoH2:57] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 2
+[2023-06-08 22:04:09] [ DEBUG] [DomicilioDaoH2:57] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 3
+[2023-06-08 22:04:40] [ DEBUG] [PacienteDaoH2:72] Ingresamos al metodo buscar paciente buscar por id
+[2023-06-08 22:04:40] [ DEBUG] [DomicilioDaoH2:57] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 3
+[2023-06-08 22:04:41] [ INFO ] [PacienteDaoH2:126] ingresamos al metodo modificar el id: 3
+[2023-06-08 22:04:41] [ INFO ] [DomicilioDaoH2:113] ingresamos al metodo modificar el id: 3
+[2023-06-08 22:10:08] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-08 22:10:41] [ DEBUG] [PacienteDaoH2:32] ingresamos al metodo guardar de paciente en PacienteDaoH2
+[2023-06-08 22:10:41] [ DEBUG] [DomicilioDaoH2:25] Ingresamos al metodo guardar domicilio
+[2023-06-08 22:10:49] [ INFO ] [PacienteDaoH2:159] ingresamos al metodo listar Pacientes
+[2023-06-08 22:10:50] [ DEBUG] [DomicilioDaoH2:57] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 1
+[2023-06-08 22:10:50] [ DEBUG] [DomicilioDaoH2:57] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 2
+[2023-06-08 22:10:50] [ DEBUG] [DomicilioDaoH2:57] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 3
+[2023-06-08 22:11:22] [ DEBUG] [PacienteDaoH2:72] Ingresamos al metodo buscar paciente buscar por id
+[2023-06-08 22:11:22] [ DEBUG] [DomicilioDaoH2:57] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 3
+[2023-06-08 22:11:22] [ INFO ] [PacienteDaoH2:126] ingresamos al metodo modificar el id: 3
+[2023-06-08 22:11:22] [ INFO ] [DomicilioDaoH2:113] ingresamos al metodo modificar el id: 3
+[2023-06-08 22:20:18] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-08 22:20:59] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-08 22:21:20] [ DEBUG] [PacienteDaoH2:32] ingresamos al metodo guardar de paciente en PacienteDaoH2
+[2023-06-08 22:21:20] [ DEBUG] [DomicilioDaoH2:25] Ingresamos al metodo guardar domicilio
+[2023-06-08 22:21:45] [ DEBUG] [PacienteDaoH2:72] Ingresamos al metodo buscar paciente buscar por id
+[2023-06-08 22:21:45] [ DEBUG] [DomicilioDaoH2:57] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 3
+[2023-06-08 22:21:45] [ INFO ] [PacienteDaoH2:126] ingresamos al metodo modificar el id: 3
+[2023-06-08 22:21:45] [ INFO ] [DomicilioDaoH2:113] ingresamos al metodo modificar el id: 3
+[2023-06-08 22:21:52] [ DEBUG] [PacienteDaoH2:72] Ingresamos al metodo buscar paciente buscar por id
+[2023-06-08 22:21:52] [ DEBUG] [DomicilioDaoH2:57] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 3
+[2023-06-08 22:22:07] [ INFO ] [PacienteDaoH2:159] ingresamos al metodo listar Pacientes
+[2023-06-08 22:22:07] [ DEBUG] [DomicilioDaoH2:57] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 1
+[2023-06-08 22:22:07] [ DEBUG] [DomicilioDaoH2:57] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 2
+[2023-06-08 22:22:07] [ DEBUG] [DomicilioDaoH2:57] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 3
+[2023-06-08 22:26:42] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-08 22:26:58] [ DEBUG] [PacienteDaoH2:32] ingresamos al metodo guardar de paciente en PacienteDaoH2
+[2023-06-08 22:26:58] [ DEBUG] [DomicilioDaoH2:25] Ingresamos al metodo guardar domicilio
+[2023-06-08 22:27:02] [ INFO ] [PacienteDaoH2:159] ingresamos al metodo listar Pacientes
+[2023-06-08 22:27:02] [ DEBUG] [DomicilioDaoH2:57] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 1
+[2023-06-08 22:27:02] [ DEBUG] [DomicilioDaoH2:57] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 2
+[2023-06-08 22:27:02] [ DEBUG] [DomicilioDaoH2:57] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 3
+[2023-06-08 22:27:10] [ DEBUG] [PacienteDaoH2:72] Ingresamos al metodo buscar paciente buscar por id
+[2023-06-08 22:27:10] [ DEBUG] [DomicilioDaoH2:57] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 3
+[2023-06-08 22:27:29] [ DEBUG] [PacienteDaoH2:72] Ingresamos al metodo buscar paciente buscar por id
+[2023-06-08 22:27:29] [ DEBUG] [DomicilioDaoH2:57] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 3
+[2023-06-08 22:27:29] [ INFO ] [PacienteDaoH2:126] ingresamos al metodo modificar el id: 3
+[2023-06-08 22:27:29] [ INFO ] [DomicilioDaoH2:113] ingresamos al metodo modificar el id: 3
+[2023-06-08 22:27:35] [ DEBUG] [PacienteDaoH2:72] Ingresamos al metodo buscar paciente buscar por id
+[2023-06-08 22:27:35] [ DEBUG] [DomicilioDaoH2:57] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 3
+[2023-06-08 22:27:59] [ DEBUG] [PacienteDaoH2:103] INGRESAMOS AL METODO DE eliminar ID POR paciente : 3
+[2023-06-08 22:28:04] [ INFO ] [PacienteDaoH2:159] ingresamos al metodo listar Pacientes
+[2023-06-08 22:28:04] [ DEBUG] [DomicilioDaoH2:57] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 1
+[2023-06-08 22:28:04] [ DEBUG] [DomicilioDaoH2:57] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 2
+[2023-06-08 22:29:11] [ DEBUG] [PacienteDaoH2:72] Ingresamos al metodo buscar paciente buscar por id
+[2023-06-08 22:29:11] [ DEBUG] [DomicilioDaoH2:57] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 1
+[2023-06-08 22:29:11] [ DEBUG] [OdontologoDaoH2:60] Ingresamos al metodo buscar odontologo por id
+[2023-06-08 22:29:11] [ DEBUG] [PacienteDaoH2:72] Ingresamos al metodo buscar paciente buscar por id
+[2023-06-08 22:29:11] [ DEBUG] [DomicilioDaoH2:57] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 1
+[2023-06-08 22:29:11] [ DEBUG] [OdontologoDaoH2:60] Ingresamos al metodo buscar odontologo por id
+[2023-06-08 22:29:35] [ DEBUG] [PacienteDaoH2:72] Ingresamos al metodo buscar paciente buscar por id
+[2023-06-08 22:29:35] [ DEBUG] [DomicilioDaoH2:57] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 2
+[2023-06-08 22:29:35] [ DEBUG] [OdontologoDaoH2:60] Ingresamos al metodo buscar odontologo por id
+[2023-06-08 22:29:35] [ DEBUG] [PacienteDaoH2:72] Ingresamos al metodo buscar paciente buscar por id
+[2023-06-08 22:29:35] [ DEBUG] [DomicilioDaoH2:57] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 2
+[2023-06-08 22:29:36] [ DEBUG] [OdontologoDaoH2:60] Ingresamos al metodo buscar odontologo por id
+[2023-06-08 22:34:06] [ DEBUG] [OdontologoDaoH2:60] Ingresamos al metodo buscar odontologo por id
+[2023-06-08 22:34:06] [ DEBUG] [PacienteDaoH2:72] Ingresamos al metodo buscar paciente buscar por id
+[2023-06-08 22:34:19] [ DEBUG] [OdontologoDaoH2:60] Ingresamos al metodo buscar odontologo por id
+[2023-06-08 22:34:19] [ DEBUG] [PacienteDaoH2:72] Ingresamos al metodo buscar paciente buscar por id
+[2023-06-08 22:34:19] [ DEBUG] [DomicilioDaoH2:57] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 1
+[2023-06-08 22:34:19] [ DEBUG] [PacienteDaoH2:72] Ingresamos al metodo buscar paciente buscar por id
+[2023-06-08 22:34:19] [ DEBUG] [DomicilioDaoH2:57] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 1
+[2023-06-08 22:34:19] [ DEBUG] [OdontologoDaoH2:60] Ingresamos al metodo buscar odontologo por id
+[2023-06-08 22:35:43] [ DEBUG] [OdontologoDaoH2:60] Ingresamos al metodo buscar odontologo por id
+[2023-06-08 22:35:43] [ DEBUG] [PacienteDaoH2:72] Ingresamos al metodo buscar paciente buscar por id
+[2023-06-08 22:35:43] [ DEBUG] [DomicilioDaoH2:57] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 1
+[2023-06-08 22:35:43] [ DEBUG] [PacienteDaoH2:72] Ingresamos al metodo buscar paciente buscar por id
+[2023-06-08 22:35:43] [ DEBUG] [DomicilioDaoH2:57] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 1
+[2023-06-08 22:35:43] [ DEBUG] [OdontologoDaoH2:60] Ingresamos al metodo buscar odontologo por id
+[2023-06-08 22:56:20] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-09 13:22:13] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-09 13:22:50] [ INFO ] [OdontologoDaoH2:28] Ingresamos al metodo guardar Odontologo: Guadalupe Fernanda Michel
+[2023-06-09 13:22:50] [ INFO ] [OdontologoDaoH2:44] Se cargo Odontologo con id: 3
+[2023-06-09 13:23:09] [ INFO ] [OdontologoDaoH2:139] Ingresamos al metodo listar de OdontologoDaoH2
+[2023-06-09 20:31:18] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-09 20:31:49] [ INFO ] [OdontologoDaoH2:28] Ingresamos al metodo guardar Odontologo: Guadalupe Fernanda Michel
+[2023-06-09 20:31:49] [ INFO ] [OdontologoDaoH2:44] Se cargo Odontologo con id: 3
+[2023-06-09 20:31:56] [ INFO ] [OdontologoDaoH2:139] Ingresamos al metodo listar de OdontologoDaoH2
+[2023-06-09 20:32:01] [ INFO ] [OdontologoDaoH2:139] Ingresamos al metodo listar de OdontologoDaoH2
+[2023-06-09 20:32:20] [ INFO ] [OdontologoDaoH2:139] Ingresamos al metodo listar de OdontologoDaoH2
+[2023-06-09 20:32:27] [ INFO ] [OdontologoDaoH2:139] Ingresamos al metodo listar de OdontologoDaoH2
+[2023-06-09 20:32:29] [ INFO ] [OdontologoDaoH2:139] Ingresamos al metodo listar de OdontologoDaoH2
+[2023-06-09 20:35:32] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-09 20:35:43] [ INFO ] [OdontologoDaoH2:139] Ingresamos al metodo listar de OdontologoDaoH2
+[2023-06-09 20:35:53] [ INFO ] [OdontologoDaoH2:28] Ingresamos al metodo guardar Odontologo: Guadalupe Fernanda Michel
+[2023-06-09 20:35:53] [ INFO ] [OdontologoDaoH2:44] Se cargo Odontologo con id: 3
+[2023-06-09 20:35:57] [ INFO ] [OdontologoDaoH2:139] Ingresamos al metodo listar de OdontologoDaoH2
+[2023-06-09 20:38:16] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-09 20:38:32] [ INFO ] [OdontologoDaoH2:28] Ingresamos al metodo guardar Odontologo: Guadalupe Fernanda Michel
+[2023-06-09 20:38:32] [ INFO ] [OdontologoDaoH2:44] Se cargo Odontologo con id: 3
+[2023-06-09 20:38:37] [ INFO ] [OdontologoDaoH2:139] Ingresamos al metodo listar de OdontologoDaoH2
+[2023-06-09 20:38:38] [ INFO ] [OdontologoDaoH2:139] Ingresamos al metodo listar de OdontologoDaoH2
+[2023-06-09 20:41:05] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-09 20:41:12] [ INFO ] [OdontologoDaoH2:139] Ingresamos al metodo listar de OdontologoDaoH2
+[2023-06-09 20:41:18] [ INFO ] [OdontologoDaoH2:139] Ingresamos al metodo listar de OdontologoDaoH2
+[2023-06-09 20:42:11] [ INFO ] [OdontologoDaoH2:28] Ingresamos al metodo guardar Odontologo: Guadalupe Fernanda Michel
+[2023-06-09 20:42:11] [ INFO ] [OdontologoDaoH2:44] Se cargo Odontologo con id: 3
+[2023-06-09 20:42:18] [ INFO ] [OdontologoDaoH2:28] Ingresamos al metodo guardar Odontologo: Juan Perez GImenez
+[2023-06-09 20:42:18] [ INFO ] [OdontologoDaoH2:44] Se cargo Odontologo con id: 4
+[2023-06-09 20:42:20] [ INFO ] [OdontologoDaoH2:139] Ingresamos al metodo listar de OdontologoDaoH2
+[2023-06-09 20:42:22] [ INFO ] [OdontologoDaoH2:139] Ingresamos al metodo listar de OdontologoDaoH2
+[2023-06-09 20:46:05] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-09 20:46:27] [ INFO ] [OdontologoDaoH2:28] Ingresamos al metodo guardar Odontologo: Guadalupe Fernanda Michel
+[2023-06-09 20:46:27] [ INFO ] [OdontologoDaoH2:44] Se cargo Odontologo con id: 3
+[2023-06-09 20:46:39] [ INFO ] [OdontologoDaoH2:28] Ingresamos al metodo guardar Odontologo: maria Michel
+[2023-06-09 20:46:39] [ INFO ] [OdontologoDaoH2:44] Se cargo Odontologo con id: 4
+[2023-06-09 20:46:47] [ INFO ] [OdontologoDaoH2:139] Ingresamos al metodo listar de OdontologoDaoH2
+[2023-06-09 20:46:53] [ DEBUG] [OdontologoDaoH2:60] Ingresamos al metodo buscar odontologo por id: 1
+[2023-06-09 20:49:34] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-09 20:49:51] [ INFO ] [OdontologoDaoH2:28] Ingresamos al metodo guardar Odontologo: Guadalupe Fernanda Michel
+[2023-06-09 20:49:51] [ INFO ] [OdontologoDaoH2:44] Se cargo Odontologo con id: 3
+[2023-06-09 20:49:57] [ INFO ] [OdontologoDaoH2:28] Ingresamos al metodo guardar Odontologo: Juan Perez GImenez
+[2023-06-09 20:49:57] [ INFO ] [OdontologoDaoH2:44] Se cargo Odontologo con id: 4
+[2023-06-09 20:50:02] [ INFO ] [OdontologoDaoH2:139] Ingresamos al metodo listar de OdontologoDaoH2
+[2023-06-09 20:54:19] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-09 20:55:05] [ INFO ] [OdontologoDaoH2:28] Ingresamos al metodo guardar Odontologo: Francesca Carrizo
+[2023-06-09 20:55:05] [ INFO ] [OdontologoDaoH2:44] Se cargo Odontologo con id: 3
+[2023-06-09 20:55:24] [ INFO ] [OdontologoDaoH2:28] Ingresamos al metodo guardar Odontologo: Emma  Michel
+[2023-06-09 20:55:24] [ INFO ] [OdontologoDaoH2:44] Se cargo Odontologo con id: 4
+[2023-06-09 20:55:27] [ INFO ] [OdontologoDaoH2:139] Ingresamos al metodo listar de OdontologoDaoH2
+[2023-06-09 20:55:33] [ DEBUG] [OdontologoDaoH2:60] Ingresamos al metodo buscar odontologo por id: 1
+[2023-06-09 20:57:48] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-09 20:58:00] [ INFO ] [OdontologoDaoH2:28] Ingresamos al metodo guardar Odontologo: Guadalupe Fernanda Michel
+[2023-06-09 20:58:00] [ INFO ] [OdontologoDaoH2:44] Se cargo Odontologo con id: 3
+[2023-06-09 20:58:09] [ INFO ] [OdontologoDaoH2:28] Ingresamos al metodo guardar Odontologo: Emma Michel
+[2023-06-09 20:58:09] [ INFO ] [OdontologoDaoH2:44] Se cargo Odontologo con id: 4
+[2023-06-09 20:58:23] [ INFO ] [OdontologoDaoH2:28] Ingresamos al metodo guardar Odontologo: Francesca Carrizo
+[2023-06-09 20:58:23] [ INFO ] [OdontologoDaoH2:44] Se cargo Odontologo con id: 5
+[2023-06-09 20:58:27] [ INFO ] [OdontologoDaoH2:139] Ingresamos al metodo listar de OdontologoDaoH2
+[2023-06-09 20:58:53] [ DEBUG] [OdontologoDaoH2:89] INGRESAMOS AL METODO DE ELIMINAR DE ODONTOLOGO5
+[2023-06-09 20:58:56] [ DEBUG] [OdontologoDaoH2:60] Ingresamos al metodo buscar odontologo por id: 1
+[2023-06-09 20:59:01] [ DEBUG] [OdontologoDaoH2:60] Ingresamos al metodo buscar odontologo por id: 3
+[2023-06-09 20:59:11] [ DEBUG] [OdontologoDaoH2:60] Ingresamos al metodo buscar odontologo por id: 3
+[2023-06-09 20:59:11] [ INFO ] [OdontologoDaoH2:110] ingresamos al metodo modificar el id: 3
+[2023-06-09 20:59:11] [ INFO ] [OdontologoDaoH2:139] Ingresamos al metodo listar de OdontologoDaoH2
+[2023-06-09 21:10:45] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-09 21:11:01] [ INFO ] [OdontologoDaoH2:139] Ingresamos al metodo listar de OdontologoDaoH2
+[2023-06-09 21:11:02] [ INFO ] [OdontologoDaoH2:139] Ingresamos al metodo listar de OdontologoDaoH2
+[2023-06-09 21:11:50] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-09 21:12:02] [ INFO ] [OdontologoDaoH2:139] Ingresamos al metodo listar de OdontologoDaoH2
+[2023-06-09 21:12:35] [ DEBUG] [OdontologoDaoH2:60] Ingresamos al metodo buscar odontologo por id: 1
+[2023-06-09 21:12:40] [ DEBUG] [OdontologoDaoH2:89] INGRESAMOS AL METODO DE ELIMINAR DE ODONTOLOGO1
+[2023-06-09 21:12:41] [ DEBUG] [OdontologoDaoH2:60] Ingresamos al metodo buscar odontologo por id: 2
+[2023-06-09 21:16:28] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-09 21:16:39] [ INFO ] [OdontologoDaoH2:139] Ingresamos al metodo listar de OdontologoDaoH2
+[2023-06-09 21:16:43] [ DEBUG] [OdontologoDaoH2:60] Ingresamos al metodo buscar odontologo por id: 1
+[2023-06-09 21:16:47] [ DEBUG] [OdontologoDaoH2:89] INGRESAMOS AL METODO DE ELIMINAR DE ODONTOLOGO1
+[2023-06-09 21:16:56] [ DEBUG] [OdontologoDaoH2:89] INGRESAMOS AL METODO DE ELIMINAR DE ODONTOLOGO2
+[2023-06-09 21:16:58] [ DEBUG] [OdontologoDaoH2:60] Ingresamos al metodo buscar odontologo por id: 1
+[2023-06-09 21:16:58] [ INFO ] [OdontologoDaoH2:139] Ingresamos al metodo listar de OdontologoDaoH2
+[2023-06-09 21:17:00] [ INFO ] [OdontologoDaoH2:139] Ingresamos al metodo listar de OdontologoDaoH2
+[2023-06-09 21:19:04] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-09 21:19:11] [ INFO ] [OdontologoDaoH2:139] Ingresamos al metodo listar de OdontologoDaoH2
+[2023-06-09 21:19:13] [ INFO ] [OdontologoDaoH2:139] Ingresamos al metodo listar de OdontologoDaoH2
+[2023-06-09 21:20:26] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-09 21:20:41] [ INFO ] [OdontologoDaoH2:139] Ingresamos al metodo listar de OdontologoDaoH2
+[2023-06-09 21:24:10] [ INFO ] [OdontologoDaoH2:28] Ingresamos al metodo guardar Odontologo: Emma Michel
+[2023-06-09 21:24:10] [ INFO ] [OdontologoDaoH2:44] Se cargo Odontologo con id: 3
+[2023-06-09 21:24:12] [ INFO ] [OdontologoDaoH2:139] Ingresamos al metodo listar de OdontologoDaoH2
+[2023-06-09 21:24:18] [ DEBUG] [OdontologoDaoH2:60] Ingresamos al metodo buscar odontologo por id: 3
+[2023-06-09 21:25:53] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-09 21:26:04] [ INFO ] [OdontologoDaoH2:139] Ingresamos al metodo listar de OdontologoDaoH2
+[2023-06-09 21:26:07] [ DEBUG] [OdontologoDaoH2:60] Ingresamos al metodo buscar odontologo por id: 2
+[2023-06-09 21:26:28] [ INFO ] [OdontologoDaoH2:139] Ingresamos al metodo listar de OdontologoDaoH2
+[2023-06-09 21:26:30] [ DEBUG] [OdontologoDaoH2:60] Ingresamos al metodo buscar odontologo por id: 1
+[2023-06-09 21:29:31] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-09 21:29:44] [ INFO ] [OdontologoDaoH2:139] Ingresamos al metodo listar de OdontologoDaoH2
+[2023-06-09 21:29:45] [ DEBUG] [OdontologoDaoH2:60] Ingresamos al metodo buscar odontologo por id: 1
+[2023-06-09 21:31:52] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-09 21:32:00] [ INFO ] [OdontologoDaoH2:139] Ingresamos al metodo listar de OdontologoDaoH2
+[2023-06-09 21:32:02] [ DEBUG] [OdontologoDaoH2:60] Ingresamos al metodo buscar odontologo por id: 1
+[2023-06-09 21:32:20] [ DEBUG] [OdontologoDaoH2:60] Ingresamos al metodo buscar odontologo por id: 1
+[2023-06-09 21:32:20] [ INFO ] [OdontologoDaoH2:110] ingresamos al metodo modificar el id: 1
+[2023-06-09 21:32:20] [ INFO ] [OdontologoDaoH2:139] Ingresamos al metodo listar de OdontologoDaoH2
+[2023-06-10 00:02:13] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-10 00:02:33] [ INFO ] [OdontologoDaoH2:139] Ingresamos al metodo listar de OdontologoDaoH2
+[2023-06-10 00:04:04] [ INFO ] [PacienteDaoH2:161] ingresamos al metodo listar Pacientes
+[2023-06-10 00:04:04] [ DEBUG] [DomicilioDaoH2:57] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 1
+[2023-06-10 00:04:04] [ DEBUG] [DomicilioDaoH2:57] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 2
+[2023-06-10 00:04:56] [ INFO ] [OdontologoDaoH2:28] Ingresamos al metodo guardar Odontologo: Guadalupe Fernanda Michel
+[2023-06-10 00:04:56] [ INFO ] [OdontologoDaoH2:44] Se cargo Odontologo con id: 3
+[2023-06-10 00:11:01] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-10 00:11:52] [ INFO ] [PacienteDaoH2:161] ingresamos al metodo listar Pacientes
+[2023-06-10 00:11:52] [ DEBUG] [DomicilioDaoH2:57] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 1
+[2023-06-10 00:11:52] [ DEBUG] [DomicilioDaoH2:57] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 2
+[2023-06-10 00:12:43] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-10 00:13:50] [ INFO ] [OdontologoDaoH2:28] Ingresamos al metodo guardar Odontologo: Guadalupe Fernanda Michel
+[2023-06-10 00:13:50] [ INFO ] [OdontologoDaoH2:44] Se cargo Odontologo con id: 3
+[2023-06-10 00:13:57] [ INFO ] [PacienteDaoH2:161] ingresamos al metodo listar Pacientes
+[2023-06-10 00:13:57] [ DEBUG] [DomicilioDaoH2:57] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 1
+[2023-06-10 00:13:57] [ DEBUG] [DomicilioDaoH2:57] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 2
+[2023-06-10 00:17:25] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-10 00:18:14] [ INFO ] [PacienteDaoH2:161] ingresamos al metodo listar Pacientes
+[2023-06-10 00:18:14] [ DEBUG] [DomicilioDaoH2:57] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 1
+[2023-06-10 00:18:14] [ DEBUG] [DomicilioDaoH2:57] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 2
+[2023-06-10 00:18:28] [ DEBUG] [PacienteDaoH2:32] Ingresamos al metodo guardar de paciente en PacienteDaoH2
+[2023-06-10 00:18:28] [ DEBUG] [DomicilioDaoH2:25] Ingresamos al metodo guardar domicilio
+[2023-06-10 00:18:28] [ INFO ] [PacienteDaoH2:56] Se guardo correctamente el Paciente: Francesca Michel Carrizo
+[2023-06-10 00:18:49] [ INFO ] [PacienteDaoH2:161] ingresamos al metodo listar Pacientes
+[2023-06-10 00:18:49] [ DEBUG] [DomicilioDaoH2:57] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 1
+[2023-06-10 00:18:49] [ DEBUG] [DomicilioDaoH2:57] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 2
+[2023-06-10 00:18:49] [ DEBUG] [DomicilioDaoH2:57] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 3
+[2023-06-10 00:19:48] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-10 00:24:14] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
+[2023-06-10 00:25:03] [ DEBUG] [PacienteDaoH2:32] Ingresamos al metodo guardar de paciente en PacienteDaoH2
+[2023-06-10 00:25:03] [ DEBUG] [DomicilioDaoH2:25] Ingresamos al metodo guardar domicilio
+[2023-06-10 00:25:03] [ INFO ] [PacienteDaoH2:56] Se guardo correctamente el Paciente: Guadalupe Fernanda Michel
+[2023-06-10 00:25:12] [ INFO ] [PacienteDaoH2:161] ingresamos al metodo listar Pacientes
+[2023-06-10 00:25:12] [ DEBUG] [DomicilioDaoH2:57] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 1
+[2023-06-10 00:25:12] [ DEBUG] [DomicilioDaoH2:57] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 2
+[2023-06-10 00:25:12] [ DEBUG] [DomicilioDaoH2:57] INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : 3
+[2023-06-10 15:58:00] [ INFO ] [BD:50] SE CREARON LAS TABLAS CON EXITO
