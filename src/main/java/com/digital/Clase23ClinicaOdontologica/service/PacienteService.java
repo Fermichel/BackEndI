@@ -18,7 +18,7 @@ public class PacienteService {
         return pacienteIDao.guardar(paciente);
     }
 
-    public Paciente buscarPacientePorId (int id){
+    public Paciente buscarPacientePorId (Long id){
        return pacienteIDao.buscarID(id);
     }
     public List<Paciente> listarpacientes(){
@@ -27,7 +27,7 @@ public class PacienteService {
     public Paciente buscarPacienteXEmail(String email){
         return pacienteIDao.buscarXString(email);
     }
-    public void eliminarPaciente(int id){
+    public void eliminarPaciente(Long id){
         pacienteIDao.eliminar(id);
     }
     public void actualizarPaciente(Paciente paciente){

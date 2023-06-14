@@ -31,7 +31,7 @@ public class TurnoDaoLista implements IDao<Turno>{
     }
 
     @Override
-    public Turno buscarID(int id) {
+    public Turno buscarID(Long id) {
         LOGGER.info("Ingresamos al metodo buscar id: " + id);
         Turno turnoBuscado= null;
         for (Turno turno:turnos) {
@@ -43,7 +43,7 @@ public class TurnoDaoLista implements IDao<Turno>{
     }
 
     @Override
-    public void eliminar(int id) {
+    public void eliminar(Long id) {
         LOGGER.info("Se elimina id: "+id);
         Turno turnoBuscado=buscarID(id);
         turnos.remove(turnoBuscado);

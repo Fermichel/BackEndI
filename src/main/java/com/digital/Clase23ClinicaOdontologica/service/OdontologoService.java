@@ -18,7 +18,7 @@ public class OdontologoService {
         return odontologoIDao.guardar(odontologo);
     }
 
-    public Odontologo buscarOdontologoPorId (int id){
+    public Odontologo buscarOdontologoPorId (Long id){
         return odontologoIDao.buscarID(id);
     }
     public List<Odontologo> listarOdontologos(){
@@ -27,7 +27,7 @@ public class OdontologoService {
     public Odontologo buscarOdontologoXpalabra(String palabra){
         return odontologoIDao.buscarXString(palabra);
     }
-    public void eliminarOdontologo(int id){
+    public void eliminarOdontologo(Long id){
         odontologoIDao.eliminar(id);
     }
     public void actualizarOdontologo(Odontologo odontologo){

@@ -43,15 +43,15 @@ public class PacienteDaoH2 implements IDao <Paciente>{
 
             preparedStatement.setString(1,paciente.getApellido());
             preparedStatement.setString(2, paciente.getNombre());
-            preparedStatement.setString(3, paciente.getDni());
-            preparedStatement.setString(4, paciente.getEmail());
+            preparedStatement.setString(3, paciente.getEmail());
+            preparedStatement.setString(4, paciente.getDni());
             preparedStatement.setDate(5, Date.valueOf(paciente.getFechaIngreso()));
-            preparedStatement.setInt(6, domicilio.getId());
+            preparedStatement.setLong(6, domicilio.getId());
             preparedStatement.execute();
 
             ResultSet claves = preparedStatement.getGeneratedKeys();
             while (claves.next()) {
-                paciente.setId(claves.getInt(1));
+                paciente.setId(claves.getLong(1));
             }
         LOGGER.info("Se guardo correctamente el Paciente: "+paciente.getNombre()+" "+paciente.getApellido());
 
@@ -68,7 +68,7 @@ public class PacienteDaoH2 implements IDao <Paciente>{
     }
 
     @Override
-    public Paciente buscarID(int id) {
+    public Paciente buscarID(Long id) {
         LOGGER.debug("Ingresamos al metodo buscar paciente buscar por id: "+id);
 
         Connection connection=null;
@@ -77,13 +77,13 @@ public class PacienteDaoH2 implements IDao <Paciente>{
         try {
             connection = BD.getConnection();
             PreparedStatement ps = connection.prepareStatement(SQL_BUSCAR_ID_PACIENTE);
-            ps.setInt(1,id);
+            ps.setLong(1,id);
             ResultSet rs= ps.executeQuery();
             DomicilioDaoH2 domicilioAux=new DomicilioDaoH2();
             while (rs.next()){
-                domicilio=domicilioAux.buscarID(rs.getInt(7));
-                //ID, APELLIDO,NOMBRE,DNI(S),FECHA INGRESO,DOMICILIO
-                paciente =new Paciente (rs.getInt(1), rs.getString(2), rs.getString(3),rs.getString(4),rs.getString(5),rs.getDate(6).toLocalDate(), domicilio);
+                domicilio=domicilioAux.buscarID(rs.getLong(7));
+                //ID, APELLIDO,NOMBRE,email,DNI(S),FECHA INGRESO,DOMICILIO
+                paciente =new Paciente (rs.getLong(1), rs.getString(2), rs.getString(3),rs.getString(4),rs.getString(5),rs.getDate(6).toLocalDate(), domicilio);
             }
 
         }catch (Exception e){
@@ -99,13 +99,13 @@ public class PacienteDaoH2 implements IDao <Paciente>{
     }
 
     @Override
-    public void eliminar(int id) {
+    public void eliminar(Long id) {
         LOGGER.debug("INGRESAMOS AL METODO DE eliminar ID POR paciente : " + id);
         Connection connection=null;
         try{
             connection = BD.getConnection();
             PreparedStatement preparedStatement = connection.prepareStatement(SQL_ELIMINAR);
-            preparedStatement.setInt(1,id);
+            preparedStatement.setLong(1,id);
             preparedStatement.execute();
             LOGGER.info("Se elimino id: "+id);
 
@@ -140,8 +140,8 @@ public class PacienteDaoH2 implements IDao <Paciente>{
             preparedStatement.setString(3, paciente.getEmail());
             preparedStatement.setString(4, paciente.getDni());
             preparedStatement.setDate(5, Date.valueOf(paciente.getFechaIngreso()));
-            preparedStatement.setInt(6,paciente.getDomicilio().getId());
-            preparedStatement.setInt(7,paciente.getId());
+            preparedStatement.setLong(6,paciente.getDomicilio().getId());
+            preparedStatement.setLong(7,paciente.getId());
             preparedStatement.execute();
             LOGGER.info("Se modifico paciente: "+paciente.getNombre()+" "+paciente.getApellido());
 
@@ -170,9 +170,9 @@ public class PacienteDaoH2 implements IDao <Paciente>{
             ResultSet rs=psAll.executeQuery();
             DomicilioDaoH2 domicilioAux=new DomicilioDaoH2();
             while(rs.next()) {
-                domicilio=domicilioAux.buscarID(rs.getInt(7));
+                domicilio=domicilioAux.buscarID(rs.getLong(7));
                 //ID, APELLIDO,NOMBRE,DNI(S),FECHA INGRESO,DOMICILIO
-                paciente =new Paciente (rs.getInt(1), rs.getString(2), rs.getString(3),rs.getString(4),rs.getString(5),rs.getDate(6).toLocalDate(), domicilio);
+                paciente =new Paciente (rs.getLong(1), rs.getString(2), rs.getString(3),rs.getString(4),rs.getString(5),rs.getDate(6).toLocalDate(), domicilio);
                 listaPacientes.add(paciente);
 
             }
@@ -203,9 +203,9 @@ public class PacienteDaoH2 implements IDao <Paciente>{
             ResultSet rs= ps.executeQuery();
             DomicilioDaoH2 domicilioAux=new DomicilioDaoH2();
             while (rs.next()){
-                domicilio=domicilioAux.buscarID(rs.getInt(7));
+                domicilio=domicilioAux.buscarID(rs.getLong(7));
                 //ID, APELLIDO,NOMBRE,DNI(S),FECHA INGRESO,DOMICILIO
-                paciente =new Paciente (rs.getInt(1), rs.getString(2), rs.getString(3),rs.getString(4),rs.getString(5),rs.getDate(6).toLocalDate(), domicilio);
+                paciente =new Paciente (rs.getLong(1), rs.getString(2), rs.getString(3),rs.getString(4),rs.getString(5),rs.getDate(6).toLocalDate(), domicilio);
             }
 
         }catch (Exception e){

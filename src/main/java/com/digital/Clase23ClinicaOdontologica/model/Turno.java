@@ -3,7 +3,7 @@ package com.digital.Clase23ClinicaOdontologica.model;
 import java.time.LocalDate;
 
 public class Turno {
-    private int id;
+    private Long id;
     private Paciente paciente;
     private Odontologo odontologo;
     private LocalDate fecha;
@@ -11,18 +11,18 @@ public class Turno {
     public Turno() {
     }
 
-    public Turno(int id, Paciente paciente, Odontologo odontologo, LocalDate fecha) {
+    public Turno(Long id, Paciente paciente, Odontologo odontologo, LocalDate fecha) {
         this.id = id;
         this.paciente = paciente;
         this.odontologo = odontologo;
         this.fecha = fecha;
     }
 
-    public int getId() {
+    public Long getId() {
         return id;
     }
 
-    public void setId(int id) {
+    public void setId(Long id) {
         this.id = id;
     }
 

@@ -47,7 +47,7 @@ public class TurnoController {
     // --------------------------------CLASE 27 MESA DE TRABAJO (ELIMINAR,ACTUALIZAR,BUSCAR POR ID)--------------------------------
 
     @DeleteMapping("/{id}")
-    public ResponseEntity<String> eliminarTurno (@PathVariable int id){
+    public ResponseEntity<String> eliminarTurno (@PathVariable Long id){
         Turno turnoBuscado =turnoService.buscarTurnoPorID(id);
         //tratamiento
        if (turnoBuscado != null){
@@ -76,7 +76,7 @@ public class TurnoController {
     }
 
     @GetMapping("/{id}")
-    public ResponseEntity<Turno> buscarTurnoPorId (@PathVariable int id){
+    public ResponseEntity<Turno> buscarTurnoPorId (@PathVariable Long id){
         Turno turnoBuscado= turnoService.buscarTurnoPorID(id);
         if(turnoBuscado!=null){
             return ResponseEntity.ok(turnoBuscado);

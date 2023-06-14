@@ -37,7 +37,7 @@ public class DomicilioDaoH2 implements IDao <Domicilio>{
             //este es para obtener la clave
             ResultSet claves = pstmt.getGeneratedKeys();
             while (claves.next()) {
-                domicilio.setId(claves.getInt(1));
+                domicilio.setId(claves.getLong(1));
             }
 
         }catch (Exception e) {
@@ -53,19 +53,19 @@ public class DomicilioDaoH2 implements IDao <Domicilio>{
     }
 
     @Override
-    public Domicilio buscarID(int id) {
+    public Domicilio buscarID(Long id) {
         LOGGER.debug("INGRESAMOS AL METODO DE BUSCAR ID POR DOMICILIO : " + id);
         Connection connection=null;
         Domicilio domicilio =null;
         try{
             connection = BD.getConnection();
             PreparedStatement preparedStatement = connection.prepareStatement(SQL_BUSCAR_ID_DOMICILIO);
-            preparedStatement.setInt(1,id);
+            preparedStatement.setLong(1,id);
 
             //se ejecuta la consulta para realizar la busqueda
             ResultSet resultSet = preparedStatement.executeQuery();
             while (resultSet.next()) {
-                int idDomicilio =resultSet.getInt(1);
+                Long idDomicilio = resultSet.getLong(1);
                 String calle= resultSet.getString(2);
                 String numero=resultSet.getString(3);
                 String localidad=resultSet.getString(4);
@@ -88,13 +88,13 @@ public class DomicilioDaoH2 implements IDao <Domicilio>{
     }
 
     @Override
-    public void eliminar(int id) {
+    public void eliminar(Long id) {
         LOGGER.debug("INGRESAMOS AL METODO DE eliminar ID POR DOMICILIO : " + id);
         Connection connection=null;
         try{
             connection = BD.getConnection();
             PreparedStatement preparedStatement = connection.prepareStatement(SQL_ELIMINAR);
-            preparedStatement.setInt(1,id);
+            preparedStatement.setLong(1,id);
 
         }catch (Exception e){
             e.printStackTrace();
@@ -120,7 +120,7 @@ public class DomicilioDaoH2 implements IDao <Domicilio>{
             preparedStatement.setString(2, domicilio.getNumero());
             preparedStatement.setString(3, domicilio.getLocalidad());
             preparedStatement.setString(4, domicilio.getProvincia());
-            preparedStatement.setInt(5,domicilio.getId());
+            preparedStatement.setLong(5,domicilio.getId());
             preparedStatement.execute();
 
         }catch (Exception e){
@@ -148,7 +148,7 @@ public class DomicilioDaoH2 implements IDao <Domicilio>{
 
             ResultSet rs=psAll.executeQuery();
             while(rs.next()) {
-                int idDomicilio =rs.getInt(1);
+                Long idDomicilio =rs.getLong(1);
                 String calle= rs.getString(2);
                 String numero=rs.getString(3);
                 String localidad=rs.getString(4);
@@ -171,6 +171,7 @@ public class DomicilioDaoH2 implements IDao <Domicilio>{
     }
 
     @Override
+    @Deprecated
     public Domicilio buscarXString(String valor) {
         return null;
     }

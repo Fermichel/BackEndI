@@ -23,11 +23,11 @@ public class TurnoService {
     public List<Turno> listarTurnos(){
         return turnoIdao.listar();
     }
-    public Turno buscarTurnoPorID(int id){
+    public Turno buscarTurnoPorID(Long id){
         return turnoIdao.buscarID(id);
     }
 
-    public void eliminarTurno(int id){
+    public void eliminarTurno(Long id){
       turnoIdao.eliminar(id);
     }
     public void actualizarTurno(Turno turno){

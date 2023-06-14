@@ -1,12 +1,12 @@
 package com.digital.Clase23ClinicaOdontologica.model;
 
 public class Odontologo {
-    private int id;
-    private int matricula;
+    private Long id;
+    private String matricula;
     private String nombre;
     private String apellido;
 
-    public Odontologo(int id, int matricula, String nombre, String apellido) {
+    public Odontologo(Long id, String matricula, String nombre, String apellido) {
         this.id = id;
         this.matricula = matricula;
         this.nombre = nombre;
@@ -26,19 +26,19 @@ public class Odontologo {
                 "\n----------------------------------------------------------------";
     }
 
-    public int getId() {
+    public Long getId() {
         return id;
     }
 
-    public void setId(int id) {
+    public void setId(Long id) {
         this.id = id;
     }
 
-    public int getMatricula() {
+    public String getMatricula() {
         return matricula;
     }
 
-    public void setMatricula(int matricula) {
+    public void setMatricula(String matricula) {
         this.matricula = matricula;
     }
 

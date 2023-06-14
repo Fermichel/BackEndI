@@ -32,14 +32,14 @@ public class OdontologoDaoH2 implements IDao<Odontologo> {
             connection=BD.getConnection();
             PreparedStatement ps_registrar =connection.prepareStatement(SQL_INSERT_ODONTOLOGO,Statement.RETURN_GENERATED_KEYS);
 
-            ps_registrar.setInt(1,odontologo.getMatricula());
+            ps_registrar.setString(1,odontologo.getMatricula());
             ps_registrar.setString(2, odontologo.getNombre());
             ps_registrar.setString(3,odontologo.getApellido());
             ps_registrar.execute();
             //este es para obtener la clave
             ResultSet claves = ps_registrar.getGeneratedKeys();
             while (claves.next()) {
-                odontologo.setId(claves.getInt(1));
+                odontologo.setId(claves.getLong(1));
             }
             LOGGER.info("Se cargo Odontologo con id: "+odontologo.getId());
 
@@ -56,7 +56,7 @@ public class OdontologoDaoH2 implements IDao<Odontologo> {
     }
 
     @Override
-    public Odontologo buscarID(int id) {
+    public Odontologo buscarID(Long id) {
         LOGGER.debug("Ingresamos al metodo buscar odontologo por id: "+id);
 
         Connection connection=null;
@@ -64,11 +64,11 @@ public class OdontologoDaoH2 implements IDao<Odontologo> {
         try {
             connection = BD.getConnection();
             PreparedStatement ps = connection.prepareStatement(SQL_BUSCAR_ID);
-            ps.setInt(1,id);
+            ps.setLong(1,id);
             ResultSet rs= ps.executeQuery();
             while (rs.next()){
                 //ID,matricula,nombre, apelido
-                odontologo =new Odontologo (rs.getInt(1), rs.getInt(2), rs.getString(3),rs.getString(4));
+                odontologo =new Odontologo (rs.getLong(1), rs.getString(2), rs.getString(3),rs.getString(4));
             }
 
         }catch (Exception e){
@@ -85,13 +85,13 @@ public class OdontologoDaoH2 implements IDao<Odontologo> {
     }
 
     @Override
-    public void eliminar(int id) {
+    public void eliminar(Long id) {
         LOGGER.debug("INGRESAMOS AL METODO DE ELIMINAR DE ODONTOLOGO"+ id);
         Connection connection= null;
         try{
             connection = BD.getConnection();
             PreparedStatement preparedStatement = connection.prepareStatement(SQL_ELIMINAR);
-            preparedStatement.setInt(1,id);
+            preparedStatement.setLong(1,id);
             preparedStatement.execute();
 
         }catch (Exception e){
@@ -115,11 +115,11 @@ public class OdontologoDaoH2 implements IDao<Odontologo> {
 
             PreparedStatement preparedStatement = connection.prepareStatement(SQL_MODIFICAR);
             //APELLIDO,NOMBRE,email,DNI(S),FECHA INGRESO, DOMICILIO_ID
-            preparedStatement.setInt(1, odontologo.getMatricula());
+            preparedStatement.setString(1, odontologo.getMatricula());
             preparedStatement.setString(2, odontologo.getNombre());
             preparedStatement.setString(3, odontologo.getApellido());
 
-            preparedStatement.setInt(4,odontologo.getId());
+            preparedStatement.setLong(4,odontologo.getId());
             preparedStatement.execute();
 
         }catch (Exception e){
@@ -146,8 +146,8 @@ public class OdontologoDaoH2 implements IDao<Odontologo> {
             //RESULTSET TRAE ELEMENTOS
             ResultSet rs = ps_listar.executeQuery();
             while(rs.next()){
-                int idOdontologo = rs.getInt(1);
-                int matricula = rs.getInt(2);
+                Long idOdontologo = rs.getLong(1);
+                String matricula = rs.getString(2);
                 String nombre = rs.getString(3);
                 String apellido = rs.getString(4);
                 odontologo =new Odontologo(idOdontologo,matricula,nombre,apellido);
@@ -177,7 +177,7 @@ public class OdontologoDaoH2 implements IDao<Odontologo> {
             ResultSet rs= ps.executeQuery();
             while (rs.next()){
                 //ID,matricula,nombre, apelido
-                odontologo =new Odontologo (rs.getInt(1), rs.getInt(2), rs.getString(3),rs.getString(4));
+                odontologo =new Odontologo (rs.getLong(1), rs.getString(2), rs.getString(3),rs.getString(4));
 
             }
 

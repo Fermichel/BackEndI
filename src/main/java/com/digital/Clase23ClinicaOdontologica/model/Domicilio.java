@@ -1,7 +1,7 @@
 package com.digital.Clase23ClinicaOdontologica.model;
 
 public class Domicilio {
-    private int id;
+    private Long id;
     private String calle;
     private String numero;
     private String localidad;
@@ -10,7 +10,7 @@ public class Domicilio {
     public Domicilio() {
     }
 
-    public Domicilio(int id, String calle, String numero, String localidad, String provincia) {
+    public Domicilio(Long id, String calle, String numero, String localidad, String provincia) {
         this.id = id;
         this.calle = calle;
         this.numero = numero;
@@ -36,11 +36,11 @@ public class Domicilio {
                 '}';
     }
 
-    public int getId() {
+    public Long getId() {
         return id;
     }
 
-    public void setId(int id) {
+    public void setId(Long id) {
         this.id = id;
     }
 

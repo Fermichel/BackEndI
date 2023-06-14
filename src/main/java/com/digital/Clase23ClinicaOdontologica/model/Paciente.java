@@ -3,7 +3,7 @@ package com.digital.Clase23ClinicaOdontologica.model;
 import java.time.LocalDate;
 
 public class Paciente {
-    private int id;
+    private Long id;
     private String apellido;
     private String nombre;
     private String email;
@@ -15,7 +15,7 @@ public class Paciente {
     public Paciente() {
     }
 
-    public Paciente(int id, String apellido, String nombre, String email, String dni, LocalDate fechaIngreso, Domicilio domicilio) {
+    public Paciente(Long id, String apellido, String nombre, String email, String dni, LocalDate fechaIngreso, Domicilio domicilio) {
         this.id = id;
         this.apellido = apellido;
         this.nombre = nombre;
@@ -50,12 +50,11 @@ public class Paciente {
     }
 
 
-
-    public int getId() {
+    public Long getId() {
         return id;
     }
 
-    public void setId(int id) {
+    public void setId(Long id) {
         this.id = id;
     }
 
