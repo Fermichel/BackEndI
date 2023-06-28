@@ -1,4 +1,4 @@
-package com.digital.Clase23ClinicaOdontologica.model;
+package com.digital.Clase23ClinicaOdontologica.entity;
 
 import java.time.LocalDate;
 

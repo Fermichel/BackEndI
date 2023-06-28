@@ -1,8 +1,8 @@
 package com.digital.Clase23ClinicaOdontologica.controller;
-
-import com.digital.Clase23ClinicaOdontologica.model.Odontologo;
-import com.digital.Clase23ClinicaOdontologica.model.Paciente;
-import com.digital.Clase23ClinicaOdontologica.model.Turno;
+/*
+import com.digital.Clase23ClinicaOdontologica.entity.Odontologo;
+import com.digital.Clase23ClinicaOdontologica.entity.Paciente;
+import com.digital.Clase23ClinicaOdontologica.entity.Turno;
 import com.digital.Clase23ClinicaOdontologica.service.OdontologoService;
 import com.digital.Clase23ClinicaOdontologica.service.PacienteService;
 import com.digital.Clase23ClinicaOdontologica.service.TurnoService;
@@ -85,4 +85,4 @@ public class TurnoController {
         }
     }
 
-}
+}*/

@@ -1,7 +1,7 @@
 package com.digital.Clase23ClinicaOdontologica.service;
+/*
 
-import com.digital.Clase23ClinicaOdontologica.repository.IDao;
-import com.digital.Clase23ClinicaOdontologica.model.Odontologo;
+import com.digital.Clase23ClinicaOdontologica.entity.Odontologo;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
@@ -34,4 +34,4 @@ public class OdontologoService {
         odontologoIDao.modificar(odontologo);
     }
 
-}
+}*/

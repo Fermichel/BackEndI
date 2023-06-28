@@ -5,11 +5,11 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Clase23ClinicaOdontologicaApplication {
+public class ClinicaOdontologicaApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Clase23ClinicaOdontologicaApplication.class, args);
-		BD.crearTabla();
+		SpringApplication.run(ClinicaOdontologicaApplication.class, args);
+		//BD.crearTabla();
 	}
 
 }

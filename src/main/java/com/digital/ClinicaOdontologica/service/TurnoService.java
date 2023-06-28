@@ -1,7 +1,6 @@
 package com.digital.Clase23ClinicaOdontologica.service;
-
-import com.digital.Clase23ClinicaOdontologica.repository.IDao;
-import com.digital.Clase23ClinicaOdontologica.model.Turno;
+/*
+import com.digital.Clase23ClinicaOdontologica.entity.Turno;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
@@ -33,4 +32,4 @@ public class TurnoService {
     public void actualizarTurno(Turno turno){
         turnoIdao.modificar(turno);
     }
-}
+}*/

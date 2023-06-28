@@ -1,13 +1,10 @@
-package com.digital.Clase23ClinicaOdontologica.controller;
+package com.digital.Clase23ClinicaOdontologica.controller;/*
 
-import com.digital.Clase23ClinicaOdontologica.model.Odontologo;
-import com.digital.Clase23ClinicaOdontologica.model.Paciente;
+import com.digital.Clase23ClinicaOdontologica.entity.Odontologo;
 import com.digital.Clase23ClinicaOdontologica.service.OdontologoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
-import org.springframework.stereotype.Controller;
-import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
@@ -107,4 +104,4 @@ public class OdontologoController {
     //    }
     //}
 
-}
+}*/
